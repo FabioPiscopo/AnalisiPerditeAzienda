@@ -1,1 +1,1 @@
-# AnalisiPerditeAzienda
+Venite assunto come data analyst da una compagnia di cui, per motivo di privacy, non avete altre informazioni se non i dataset che vi hanno consegnato. Sapete che hanno un problema, ma il cliente è rimasto generico anche su quello: vi ha detto solo che comporta delle perdite economiche. Analizzate a fondo i dati e provate a farvi una idea di quale potrebbe essere la causa di queste perdite, presentando poi al cliente una dashboard riassuntiva della vostra analisi.
